@@ -17,6 +17,6 @@ from django.contrib import admin
 from django.urls import path,include
 
 urlpatterns = [
-    path('admin/', admin.site.urls),
-    path('Todos/',include('Todos.urls'))
+    # path('admin/', admin.site.urls),
+    path('Todos/',include('Todos.urls')) # To accesst the front page
 ]
