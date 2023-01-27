@@ -1,6 +1,6 @@
 # Todo-App
 
-This is a Todo app which stores the given task in a table when pressed on <img src='plus-icon.png' width=20> icon and deletes certain task when pressed on <img src='trash-icon.png' width=20>.<br>
+This is a Todo app which stores the given task in a table when pressed on <img src='Screenshots/plus-icon.png' width=20> icon and deletes certain task when pressed on <img src='Screenshots/trash-icon.png' width=20>.<br>
 We used [![Libraries](https://skills.thijs.gg/icons?i=html,bootstrap,postgresql)](https://skills.thijs.gg)
 _____
 ## Sample Image
