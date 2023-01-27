@@ -37,7 +37,7 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
-    'Todos'
+    'Todos' ## Table for storing the todolist
 ]
 
 MIDDLEWARE = [
@@ -78,8 +78,8 @@ DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
         'NAME': 'TodoDB',
-        'USER':'postgres',
-        'PASSWORD':'ammanana204',
+        'USER':'postgres',#Change the user according to your database
+        'PASSWORD':'indrarjun', # Insert Your Password
         'HOST':'localhost'
     }
 }
